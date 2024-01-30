@@ -1329,5 +1329,327 @@
     "description": "Dog Wif Katana",
     "image": "injective/asset/katana.png",
     "coinGeckoId": "dogwifkatana"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj13yrhllhe40sd3nj0lde9azlwfkyrf2t9r78dx5",
+    "type": "native",
+    "origin_denom": "usdtap",
+    "symbol": "USDTap",
+    "decimals": 6,
+    "coinGeckoId": "tether"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14cl67lprqkt3pncjav070gavaxslc0tzpc56f4",
+    "type": "native",
+    "origin_denom": "wklay",
+    "symbol": "WKLAY",
+    "decimals": 8,
+    "coinGeckoId": "klay-token"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14jesa4q248mfxztfc9zgpswkpa4wx249mya9kk",
+    "type": "native",
+    "origin_denom": "brz",
+    "symbol": "BRZ",
+    "decimals": 4,
+    "coinGeckoId": "brz"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch",
+    "type": "native",
+    "origin_denom": "bonk",
+    "symbol": "BONK",
+    "decimals": 5,
+    "coinGeckoId": "bonk"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj18a2u6az6dzw528rptepfg6n49ak6hdzkny4um6",
+    "type": "native",
+    "origin_denom": "avax",
+    "symbol": "AVAX",
+    "decimals": 8,
+    "coinGeckoId": "avalanche-2"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj18zykysxw9pcvtyr9ylhe0p5s7yzf6pzdagune8",
+    "type": "native",
+    "origin_denom": "usdtet",
+    "symbol": "USDTet",
+    "decimals": 6,
+    "coinGeckoId": "tether"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1k9r62py07wydch6sj5sfvun93e4qe0lg7jyatc",
+    "type": "native",
+    "origin_denom": "weth",
+    "symbol": "wETH",
+    "decimals": 8,
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1l9eyrnv3ret8da3qh8j5aytp6q4f73crd505lj",
+    "type": "native",
+    "origin_denom": "usdtbsc",
+    "symbol": "USDTbsc",
+    "decimals": 6,
+    "coinGeckoId": "tether"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1lmcfftadjkt4gt3lcvmz6qn4dhx59dv2m7yv8r",
+    "type": "native",
+    "origin_denom": "usdcarb",
+    "symbol": "USDCarb",
+    "decimals": 6,
+    "coinGeckoId": "usd-coin"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1me6t602jlndzxgv2d7ekcnkjuqdp7vfh4txpyy",
+    "type": "native",
+    "origin_denom": "ldo",
+    "symbol": "LDO",
+    "decimals": 8,
+    "coinGeckoId": "lido-dao"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1mhmln627samtkuwe459ylq763r4n7n69gxxc9x",
+    "type": "native",
+    "origin_denom": "astr",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "coinGeckoId": "astar"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1plsk58sxqjw9828aqzeskmc8xy9eu5kppw3jg4",
+    "type": "native",
+    "origin_denom": "weth",
+    "symbol": "wETH",
+    "decimals": 8,
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1qjn06jt7zjhdqxgud07nylkpgnaurq6xc5c4fd",
+    "type": "native",
+    "origin_denom": "usdtso",
+    "symbol": "USDTso",
+    "decimals": 6,
+    "coinGeckoId": "tether"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1spzwwtr2luljr300ng2gu52zg7wn7j44m92mdf",
+    "type": "native",
+    "origin_denom": "dot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "coinGeckoId": "polkadot"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1tn457ed2gg5vj2cur5khjjw63w73y3xhyhtaay",
+    "type": "native",
+    "origin_denom": "vatreni",
+    "symbol": "VATRENI",
+    "decimals": 8,
+    "coinGeckoId": "croatian-ff-fan-token"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1v8gg4wzfauwf9l7895t0eyrrkwe65vh5n7dqmw",
+    "type": "native",
+    "origin_denom": "injet",
+    "symbol": "INJet",
+    "decimals": 8,
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1xcgprh58szttp0vqtztvcfy34tkpupr563ua40",
+    "type": "native",
+    "origin_denom": "injbsc",
+    "symbol": "INJbsc",
+    "decimals": 8,
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "denom": "factory/inj14ejqjyq8um4p3xfqj74yld5waqljf88f9eneuk/inj1zwnsemwrpve3wrrg0njj89w6mt5rmj9ydkc46u",
+    "type": "native",
+    "origin_denom": "alpha",
+    "symbol": "ALPHA",
+    "decimals": 8,
+    "coinGeckoId": "alphacoin"
+  },
+  {
+    "denom": "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A",
+    "type": "ibc",
+    "origin_denom": "uscrt",
+    "symbol": "SCRT",
+    "decimals": 6,
+    "coinGeckoId": "secret",
+    "enable": true,
+    "channel": "channel-88",
+    "port": "transfer"
+  },
+  {
+    "denom": "ibc/2CBC2EA121AE42563B08028466F37B600F2D7D4282342DE938283CC3FB2BC00E",
+    "type": "ibc",
+    "origin_denom": "uusdc",
+    "symbol": "USDCnb",
+    "decimals": 6,
+    "coinGeckoId": "usd-coin",
+    "enable": true,
+    "channel": "channel-148",
+    "port": "transfer"
+  },
+  {
+    "denom": "ibc/3D99439444ACDEE71DBC4A774E49DB74B58846CCE31B9A868A7A61E4C14D321E",
+    "type": "ibc",
+    "origin_denom": "cw20:terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw",
+    "symbol": "ORNE",
+    "decimals": 6,
+    "coinGeckoId": "orne",
+    "enable": true,
+    "channel": "channel-116",
+    "port": "transfer"
+  },
+  {
+    "denom": "ibc/4971C5E4786D5995EC7EF894FCFA9CF2E127E95D5D53A982F6A062F3F410EDB8",
+    "type": "ibc",
+    "origin_denom": "ulvn",
+    "symbol": "LVN",
+    "decimals": 6,
+    "coinGeckoId": "levana-protocol",
+    "enable": true,
+    "channel": "channel-8",
+    "port": "transfer"
+  },
+  {
+    "denom": "ibc/B448C0CA358B958301D328CCDC5D5AD642FC30A6D3AE106FF721DB315F3DDE5C",
+    "type": "ibc",
+    "origin_denom": "uusd",
+    "symbol": "UST",
+    "decimals": 18,
+    "coinGeckoId": "terrausd",
+    "enable": true,
+    "channel": "channel-4",
+    "port": "transfer"
+  },
+  {
+    "denom": "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
+    "type": "ibc",
+    "origin_denom": "uluna",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "coinGeckoId": "terra-luna",
+    "enable": true,
+    "channel": "channel-4",
+    "port": "transfer"
+  },
+  {
+    "denom": "ibc/D50E26996253EBAA8C684B9CD653FE2F7665D7BDDCA3D48D5E1378CF6334F211",
+    "type": "ibc",
+    "origin_denom": "ujuno",
+    "symbol": "JUNO",
+    "decimals": 6,
+    "coinGeckoId": "juno-network",
+    "enable": true,
+    "channel": "channel-78",
+    "port": "transfer"
+  },
+  {
+    "denom": "ibc/E7807A46C0B7B44B350DA58F51F278881B863EC4DCA94635DAB39E52C30766CB",
+    "type": "ibc",
+    "origin_denom": "uhuahua",
+    "symbol": "HUAHUA",
+    "decimals": 6,
+    "coinGeckoId": "chihuahua-token",
+    "enable": true,
+    "channel": "channel-76",
+    "port": "transfer"
+  },
+  {
+    "denom": "peggy0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+    "type": "bridge",
+    "origin_denom": "rai",
+    "symbol": "RAI",
+    "decimals": 18,
+    "coinGeckoId": "rai",
+    "contract": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+  },
+  {
+    "denom": "peggy0x05079687D35b93538cbd59fe5596380cae9054A9",
+    "type": "bridge",
+    "origin_denom": "bitsong",
+    "symbol": "BitSong",
+    "decimals": 18,
+    "coinGeckoId": "bitsong",
+    "contract": "0x05079687D35b93538cbd59fe5596380cae9054A9"
+  },
+  {
+    "denom": "peggy0x1A963Df363D01EEBB2816b366d61C917F20e1EbE",
+    "type": "bridge",
+    "origin_denom": "mememe",
+    "symbol": "MEMEME",
+    "decimals": 18,
+    "coinGeckoId": "mememe",
+    "contract": "0x1A963Df363D01EEBB2816b366d61C917F20e1EbE"
+  },
+  {
+    "denom": "peggy0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
+    "type": "bridge",
+    "origin_denom": "cvr",
+    "symbol": "CVR",
+    "decimals": 18,
+    "coinGeckoId": "covercompared",
+    "contract": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6"
+  },
+  {
+    "denom": "peggy0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
+    "type": "bridge",
+    "origin_denom": "maga",
+    "symbol": "MAGA",
+    "decimals": 9,
+    "coinGeckoId": "maga",
+    "contract": "0x576e2BeD8F7b46D34016198911Cdf9886f78bea7"
+  },
+  {
+    "denom": "peggy0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+    "type": "bridge",
+    "origin_denom": "ox",
+    "symbol": "OX",
+    "decimals": 18,
+    "coinGeckoId": "open-exchange-token",
+    "contract": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f"
+  },
+  {
+    "denom": "peggy0x81994b9607e06ab3d5cF3AffF9a67374f05F27d7",
+    "type": "bridge",
+    "origin_denom": "fusdt",
+    "symbol": "fUSDT",
+    "decimals": 8,
+    "coinGeckoId": "flux-usdt",
+    "contract": "0x81994b9607e06ab3d5cF3AffF9a67374f05F27d7"
+  },
+  {
+    "denom": "peggy0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+    "type": "bridge",
+    "origin_denom": "usdy",
+    "symbol": "USDY",
+    "decimals": 18,
+    "coinGeckoId": "ondo-us-dollar-yield",
+    "contract": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C"
+  },
+  {
+    "denom": "peggy0xC08512927D12348F6620a698105e1BAac6EcD911",
+    "type": "bridge",
+    "origin_denom": "gyen",
+    "symbol": "GYEN",
+    "decimals": 6,
+    "coinGeckoId": "gyen",
+    "contract": "0xC08512927D12348F6620a698105e1BAac6EcD911"
+  },
+  {
+    "denom": "peggy0xf25304e75026E6a35FEDcA3B0889aE5c4D3C55D8",
+    "type": "bridge",
+    "origin_denom": "vrd",
+    "symbol": "VRD",
+    "decimals": 18,
+    "coinGeckoId": "viridis-network",
+    "contract": "0xf25304e75026E6a35FEDcA3B0889aE5c4D3C55D8"
   }
 ]
